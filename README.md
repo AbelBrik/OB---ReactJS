@@ -7,7 +7,7 @@ Ejercicio (1,2,3) - Componentes
 
 --------------
 
-Ejercicio (4,5,6) - Componentes
+Ejercicio (4,5,6) - Componentes y hooks
 
 - Partiendo del siguiente componente de clase que contempla varios métodos de ciclo de vida, convertidlo en un componente funcional que realicelo mismo
 
